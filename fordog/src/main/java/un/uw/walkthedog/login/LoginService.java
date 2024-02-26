@@ -1,4 +1,4 @@
-package un.uw.fordog.login;
+package un.uw.walkthedog.login;
 
 public interface LoginService {
 }

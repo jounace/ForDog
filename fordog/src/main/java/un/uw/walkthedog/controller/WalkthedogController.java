@@ -1,9 +1,9 @@
-package un.uw.fordog.controller;
+package un.uw.walkthedog.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 
 @RequestMapping()
-public class FordogController {
+public class WalkthedogController {
 
 
 

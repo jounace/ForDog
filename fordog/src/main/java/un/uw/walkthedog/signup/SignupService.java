@@ -1,4 +1,4 @@
-package un.uw.fordog.signup;
+package un.uw.walkthedog.signup;
 
 public interface SignupService {
 }

@@ -1,4 +1,4 @@
-package un.uw.fordog;
+package un.uw.walkthedog;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
