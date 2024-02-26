@@ -10,7 +10,7 @@
     </parent>
     <groupId>un.uw</groupId>
     <artifactId>fordog</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <name>fordog</name>
     <description>fordog</description>
     <properties>
